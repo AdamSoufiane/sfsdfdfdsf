@@ -1,0 +1,1 @@
+This shred represents a Spring Boot application structured according to Hexagonal Architecture, focusing on a feature that processes input and provides a corresponding output, as specified in the shred description. The application is divided into three main layers: Domain, Application, and Infrastru
